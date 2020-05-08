@@ -1,4 +1,4 @@
-baseURL = "https://arsalasif.github.io"
+baseURL = "https://arsal.me"
 title   = "Arsal Asif"
 
 DefaultContentLanguage = "en"
@@ -78,7 +78,7 @@ disableHugoGeneratorInject = false
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd /arsalasif/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -98,9 +98,9 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/arsalasif"
+  # [[params.social]]
+  #   name = "twitter"
+  #   url  = "https://twitter.com/arsalasif"
 
   [[params.social]]
     name = "email"
@@ -114,9 +114,9 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/arsalasif"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://stackoverflow.com/users/2873518/xoul"
+  # [[params.social]]
+  #   name = "stackoverflow"
+  #   url  = "https://stackoverflow.com/users/2873518/xoul"
 
 [languages]
   [languages.en]
