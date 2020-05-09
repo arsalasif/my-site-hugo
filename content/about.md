@@ -15,6 +15,6 @@ As a software engineer, my core focus is on designing maintainable, efficient so
 
 As a researcher, my interests are Computer Vision and Deep Learning. My recent work is a Visual Saliency model for videos, where my model successfully achieved results that outperformed the previous state-of-the-art models. Based on my research, I have also authored a paper for the top-tier conference European Conference on Computer Vision (ECCV) 2020.
 
-If you need someone who can code as well as research, specifically related to Machine Learning/Computer Vision/Deep Learning, then you are at the right profile.
+If you need someone who can code as well as research, specifically related to Machine Learning/Computer Vision/Deep Learning, then you are at the right website.
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/arsalasif/).
