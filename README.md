@@ -1,1 +1,1 @@
-Repository for Hugo static site generator, to deploy my personal web page. Website: https://arsal.me/
+This website is built using [Hugo](https://gohugo.io/) static website generator using [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng theme).
