@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-date = "2020-05-09"
+date = "2020-07-06"
 aliases = ["projects"]
 [ author ]
   name = "Arsal Asif"
@@ -21,7 +21,7 @@ Reported the best and recent Deep Learning approaches for Depth Estimation. Iden
 ### Backend Development
 **• Flask REST API**\
 `Python, Pydantic, Flask, Docker, SQLAlchemy, PostgreSQL, Celery, AMQP, Gunicorn, JWT, SwaggerUI`\
-A better RESTful API boilerplate for Flask. Containerized Docker build with separate docker services for database, message-broker, API, and documentation. Separate environments and configs for development, testing, and production. Authentication via JWT. Documentation via Swagger.
+A better RESTful API boilerplate for Flask. Containerized Docker build with separate docker services for database, message-broker, API, and documentation. Separate environments and configs for development, testing, and production. Authentication via JWT. Documentation via Swagger.\
 [Repository on Github](https://github.com/arsalasif/flask-rest-api)
 
 **• Techlogix Enterprise Mobility**\
