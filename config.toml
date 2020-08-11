@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Software Engineer, Machine Learning/Computer Vision"
+  homeSubtitle = "Software Engineer | Backend | Computer Vision | Machine Learning"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -103,10 +103,6 @@ disableHugoGeneratorInject = false
   #   url  = "https://twitter.com/arsalasif"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:asifma@myumanitoba.ca"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/arsalasif"
 
@@ -114,9 +110,9 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/arsalasif"
 
-  # [[params.social]]
-  #   name = "stackoverflow"
-  #   url  = "https://stackoverflow.com/users/2873518/xoul"
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/2873518/xoul"
 
 [languages]
   [languages.en]
