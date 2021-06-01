@@ -20,6 +20,7 @@ After a bunch of freelancing gigs, I moved onto a full-time role as a Senior Sof
 
 I'm currently living in this quiet, beautiful city of Kitchener and working remotely. Here's a picture from one of the recent sightseeing trips:
 
-{{< image src="/img/lake.jpeg" alt="Lake" position="center" style="border-radius: 8px;" >}}
+{{<figure src="/img/lake.jpg" width="500">}}
+
 
 I'll try to regularly update this website. Until next time!
