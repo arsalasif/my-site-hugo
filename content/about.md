@@ -8,4 +8,4 @@ aliases = ["about-me","contact"]
 
 Senior Engineer @ Ada
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/arsalasif/).
+<!-- Reach out on [LinkedIn](https://www.linkedin.com/in/arsalasif/). -->
